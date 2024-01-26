@@ -1,0 +1,22 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor directories
+.idea/
+.vscode/
+
+# Node modules for any JavaScript projects
+node_modules/
+
+# Environment variables
+.env
+
+# Build directories
+build/
+dist/
+
+# Temporary files
+tmp/
+temp/
