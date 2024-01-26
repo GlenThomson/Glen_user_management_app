@@ -23,8 +23,6 @@ npm install
 cd ../user-management-api
 npm install
 
-javascript
-Copy code
 
 3. Set up the `.env` file in the `user-management-api` directory with the following variables:
 DB_HOST=localhost
@@ -36,11 +34,10 @@ DB_PASS=yourpassword
 DB_NAME=user_management_app
 
 
-5. Start the backend server:
+4. Start the backend server:
 npm start
 
-sql
-Copy code
+
 
 5. In a new terminal, start the React application:
 cd my-react-app
