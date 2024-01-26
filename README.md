@@ -33,7 +33,7 @@ DB_PASS=yourpassword
 DB_NAME=user_management_app
 
 
-4. Start the backend server:
+5. Start the backend server:
 npm start
 
 sql
