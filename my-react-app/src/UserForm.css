@@ -1,0 +1,38 @@
+/* UserForm.css */
+.user-form {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 300px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .user-form input[type="text"],
+  .user-form input[type="email"],
+  .user-form button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box; /* So padding doesn't affect width */
+  }
+  
+  .user-form button {
+    background-color: #5c6bc0;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .user-form button:hover {
+    background-color: #3f51b5;
+  }
+  
