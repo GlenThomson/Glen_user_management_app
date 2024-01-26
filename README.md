@@ -28,8 +28,11 @@ Copy code
 
 3. Set up the `.env` file in the `user-management-api` directory with the following variables:
 DB_HOST=localhost
+
 DB_USER=root
+
 DB_PASS=yourpassword
+
 DB_NAME=user_management_app
 
 
